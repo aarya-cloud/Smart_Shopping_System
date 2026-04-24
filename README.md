@@ -7,7 +7,7 @@ Built with Tkinter GUI and powered by Google Gemini AI, this app intelligently s
 🚀 Features/n
 🔍 Smart AI Search/n
 Understands user queries like “cake ingredients” or “daily essentials”/n
-💰 Price Comparison/n
+💰 Price Comparison\br
 Compares product prices across:/n
 BigBasket/n
 Amazon/n
